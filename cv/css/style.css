@@ -1,0 +1,25 @@
+<style>
+    .h1h1 {
+        color: #FF511C;
+    }
+    .all {
+        color: #9A9A9E;
+        background-color: #23262A;
+        font-family: Verdana, sans-serif;
+        font-variant:normal;
+        text-align:left;
+        padding:15px;
+        margin: 15px;
+
+        display:flex;
+        justify-content:center;
+        text-align: left;
+
+
+    }    
+    .cen {
+        border: 2px dotted rgb(66, 56, 56);
+
+    }
+
+</style>
